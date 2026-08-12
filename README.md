@@ -33,20 +33,25 @@ Data_Time_Series_UdeA/
 
 El curso utiliza principalmente:
 
-R
-Python
-Jupyter Notebook
-Visual Studio Code
-Git & GitHub
-📊 Materiales
+- R
+- Python
+- Jupyter Notebook
+- Visual Studio Code
+- Git & GitHub
+
+
+## 📊 Materiales
 
 Los contenidos del repositorio se irán actualizando progresivamente con notebooks, códigos, datos y documentos utilizados durante el desarrollo del curso.
+
 
 ## 👨‍🏫 Curso
 
 Series de Tiempo
+
 Universidad de Antioquia
 
-🔗 Repositorio
+🔗 Repositorio : [GitHub — Data_Time_Series_UdeA](https://github.com/duvancatan/Data_Time_Series_UdeA)
 
-GitHub — Data_Time_Series_UdeA
+---
+---
