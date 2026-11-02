@@ -1,3 +1,13 @@
+# Pasos en git para incluir archivos en .gitignore
+# 1. git rm -r --cached data/
+#    git rm -r --cached documents/
+#    git rm -r --cached models/
+#    git rm -r --cached notebook/
+#    git rm -r --cached src/
+# 2. git commit -m "Remover carpetas de xxx del rastreo"
+# 3. git push
+
+
 # Archivos a ser ignorados
 notebooks/R
 data/dataseries
